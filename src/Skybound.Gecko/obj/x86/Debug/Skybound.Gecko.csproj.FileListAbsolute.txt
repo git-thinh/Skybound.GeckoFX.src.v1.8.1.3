@@ -1,0 +1,11 @@
+E:\Skybound.GeckoFX.src.v1.8.1.3\src\Skybound.Gecko\bin\x86\Debug\Skybound.Gecko.dll
+E:\Skybound.GeckoFX.src.v1.8.1.3\src\Skybound.Gecko\bin\x86\Debug\Skybound.Gecko.pdb
+E:\Skybound.GeckoFX.src.v1.8.1.3\src\Skybound.Gecko\bin\x86\Debug\Skybound.Gecko.xml
+E:\Skybound.GeckoFX.src.v1.8.1.3\src\Skybound.Gecko\obj\x86\Debug\Skybound.Gecko.csprojResolveAssemblyReference.cache
+E:\Skybound.GeckoFX.src.v1.8.1.3\src\Skybound.Gecko\obj\x86\Debug\Skybound.Gecko.ConfirmDialog.resources
+E:\Skybound.GeckoFX.src.v1.8.1.3\src\Skybound.Gecko\obj\x86\Debug\Skybound.Gecko.PasswordDialog.resources
+E:\Skybound.GeckoFX.src.v1.8.1.3\src\Skybound.Gecko\obj\x86\Debug\Skybound.Gecko.PromptDialog.resources
+E:\Skybound.GeckoFX.src.v1.8.1.3\src\Skybound.Gecko\obj\x86\Debug\Skybound.Gecko.PropertiesDialog.resources
+E:\Skybound.GeckoFX.src.v1.8.1.3\src\Skybound.Gecko\obj\x86\Debug\Skybound.Gecko.csproj.GenerateResource.Cache
+E:\Skybound.GeckoFX.src.v1.8.1.3\src\Skybound.Gecko\obj\x86\Debug\Skybound.Gecko.dll
+E:\Skybound.GeckoFX.src.v1.8.1.3\src\Skybound.Gecko\obj\x86\Debug\Skybound.Gecko.pdb
